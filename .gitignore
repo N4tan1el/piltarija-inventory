@@ -1,0 +1,16 @@
+# Compiled output
+/target/
+/build/
+/dist/
+*.class
+
+# IDE settings
+/.idea/
+/nbproject/private/
+*.iml
+
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+*.local.properties
